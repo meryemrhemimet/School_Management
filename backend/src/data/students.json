@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "name": "Sara El Amrani",
+    "age": 22,
+    "field": "Computer Science",
+    "grades": [
+      16,
+      14,
+      18
+    ],
+    "isDeleted": false,
+    "createdAt": "2026-05-06T00:00:00.000Z",
+    "updatedAt": "2026-05-14T13:29:50.186Z"
+  },
+  {
+    "id": 2,
+    "name": "Youssef Benali",
+    "age": 22,
+    "field": "Mathematics",
+    "grades": [
+      14,
+      13,
+      16
+    ],
+    "isDeleted": true,
+    "createdAt": "2026-05-06T00:00:00.000Z",
+    "updatedAt": "2026-05-06T19:51:33.513Z"
+  },
+  {
+    "id": 3,
+    "name": "Nora Mansouri",
+    "age": 20,
+    "field": "Economics",
+    "grades": [
+      12,
+      15,
+      14
+    ],
+    "isDeleted": false,
+    "createdAt": "2026-05-06T00:00:00.000Z",
+    "updatedAt": "2026-05-06T00:00:00.000Z"
+  },
+  {
+    "id": 4,
+    "name": "Adam Karim",
+    "age": 21,
+    "field": "Physics",
+    "grades": [
+      15,
+      16,
+      10
+    ],
+    "isDeleted": false,
+    "createdAt": "2026-05-06T00:00:00.000Z",
+    "updatedAt": "2026-05-06T20:23:42.137Z"
+  },
+  {
+    "id": 5,
+    "name": "Nouhaila Njarri",
+    "age": 20,
+    "field": "Biology",
+    "grades": [
+      14,
+      12,
+      18
+    ],
+    "isDeleted": false,
+    "createdAt": "2026-05-06T20:00:08.896Z",
+    "updatedAt": "2026-05-06T20:00:40.843Z"
+  },
+  {
+    "id": 6,
+    "name": "Salma Bennari",
+    "age": 25,
+    "field": "Computer Science",
+    "grades": [
+      12,
+      14,
+      15
+    ],
+    "isDeleted": false,
+    "createdAt": "2026-05-06T20:45:57.036Z",
+    "updatedAt": "2026-05-06T20:46:15.059Z"
+  },
+  {
+    "id": 7,
+    "name": "Mehdi Bahi",
+    "age": 22,
+    "field": "Computer science",
+    "grades": [
+      14,
+      18,
+      18
+    ],
+    "isDeleted": true,
+    "createdAt": "2026-05-14T12:59:40.469Z",
+    "updatedAt": "2026-05-14T12:59:55.702Z"
+  },
+  {
+    "id": 8,
+    "name": "Salma Bennari",
+    "age": 20,
+    "field": "Computer science",
+    "grades": [
+      12,
+      14,
+      15
+    ],
+    "isDeleted": true,
+    "createdAt": "2026-05-14T15:12:49.970Z",
+    "updatedAt": "2026-05-14T15:13:13.314Z"
+  },
+  {
+    "id": 9,
+    "name": "Salma Bennari",
+    "age": 20,
+    "field": "Computer science",
+    "grades": [
+      12,
+      14,
+      15
+    ],
+    "isDeleted": true,
+    "createdAt": "2026-05-14T15:13:09.640Z",
+    "updatedAt": "2026-05-14T15:13:14.377Z"
+  }
+]

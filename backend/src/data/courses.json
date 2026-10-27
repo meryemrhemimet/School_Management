@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "Introduction to Programming",
+    "instructor": "Prof. Nadia Berrada",
+    "field": "Computer Science",
+    "duration": "12 weeks",
+    "isDeleted": false,
+    "createdAt": "2026-05-06T00:00:00.000Z",
+    "updatedAt": "2026-05-06T00:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "title": "Data Structures",
+    "instructor": "Prof. Karim Alaoui",
+    "field": "Computer Science",
+    "duration": "10 weeks",
+    "isDeleted": true,
+    "createdAt": "2026-05-06T00:00:00.000Z",
+    "updatedAt": "2026-05-06T20:05:33.041Z"
+  },
+  {
+    "id": 3,
+    "title": "Applied Statistics",
+    "instructor": "Prof. Salma Idrissi",
+    "field": "Mathematics",
+    "duration": "8 weeks",
+    "isDeleted": false,
+    "createdAt": "2026-05-06T00:00:00.000Z",
+    "updatedAt": "2026-05-06T00:00:00.000Z"
+  },
+  {
+    "id": 4,
+    "title": "DataWarehouse",
+    "instructor": "Prod.Nour El Hami",
+    "field": "Computer Science",
+    "duration": "10 weeks",
+    "isDeleted": false,
+    "createdAt": "2026-05-06T20:12:29.980Z",
+    "updatedAt": "2026-05-06T20:12:29.980Z"
+  }
+]
